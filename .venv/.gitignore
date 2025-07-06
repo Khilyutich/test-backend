@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Virtual environments
+.venv/
+
+# Docker
+*.log
+*.pid
+*.sock
+*.cache
